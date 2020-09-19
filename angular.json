@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -88,6 +89,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TecnicasAvancadasAngular"
+    }
+  },
+  "defaultProject": "TecnicasAvancadasAngular",
+  "cli": {
+    "analytics": "615fa2c2-3bad-4f24-97bc-d1e648b3e824"
+  }
 }
